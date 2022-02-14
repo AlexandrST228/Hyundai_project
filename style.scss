@@ -1,0 +1,865 @@
+@import url("./ObnulenieCSS.css");
+footer {
+  background-color: white;
+}
+
+body {
+  background-image: url(..//IMG/body__background.png);
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  width: 100%;
+  height: 100px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.container {
+  max-width: 1520px;
+  height: 56px;
+  margin: 35px auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.logo__number {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.logo__number p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: bold;
+  color: #002C5F;
+  padding: 0 0 0 40px;
+}
+
+.number__credit {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.Callback {
+  width: 284px;
+  height: 56px;
+  background-color: #10B5DC;
+  margin: 0 0 0 470px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-image: url(..//IMG/phone.png);
+  background-repeat: no-repeat;
+  background-position: 15%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 55px;
+  color: white;
+  font-weight: 500;
+  padding: 0 0 0 30px;
+  border: 2px solid #10B5DC;
+  }
+
+.Callback:active{
+				box-shadow: 5px 5px 5px black ;
+				background-color: #0d7b9b;
+				border: 2px solid #0d7b9b;
+}
+
+.get__a__loan {
+  width: 284px;
+  height: 56px;
+  background-color: #002C5F;
+  margin: 0 0 0 40px;
+  text-align: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 55px;
+  color: white;
+  font-weight: 500;
+  border: 2px solid #002C5F;
+}
+
+.get__a__loan:active {
+  box-shadow: 5px 5px 5px black ;
+				background-color: #0047a8;
+				border: 2px solid #0047a8;
+}
+
+.liquidations {
+  width: 1920px;
+  height: 640px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+          background-image: url(..//IMG/auto.png);
+  background-repeat: no-repeat;
+}
+
+.liquidations__content {
+  width: 1920px;
+  height: 640px;
+  margin: 0 auto;
+}
+
+.liquidations__content p {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  font-size: 50px;
+  line-height: 55px;
+  text-align: center;
+  width: 1250px;
+  margin: 0 auto;
+  padding: 10px 0 0 0;
+}
+
+.button__offer {
+  width: 287px;
+  height: 57px;
+  background-color: #002C5F;
+  text-align: center;
+  margin: 27px 0 0 800px;
+  color: white;
+  font-size: 16px;
+  line-height: 57px;
+  border: 2px solid #002C5F;
+}
+
+.button__offer:active {
+  box-shadow: 5px 5px 5px black ;
+				background-color: #0047a8;
+				border: 2px solid #0047a8;
+}
+
+.trade__in {
+  width: 1600px;
+  height: 240px;
+}
+
+.trade__in__container {
+  width: 1260px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.trade__in__content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.one__trade__in {
+  width: 351px;
+  height: 107px;
+  background-image: url(..//IMG/Rectangle_105.png);
+  margin: 50px 0 0 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: left;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.one__trade__in p {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  color: white;
+  line-height: 24px;
+  font-weight: bold;
+}
+
+.one__trade__in p:nth-child(2) {
+  padding: 0 0 0 16px;
+}
+
+.card__cars {
+  width: 1600px;
+  height: 460px;
+
+  margin: 0 auto;
+}
+
+.card__car {
+  width: 990px;
+  height: 450px;
+  margin: 60px auto;
+  background-image: url(..//IMG/Rectangle_backround.png);
+  background-repeat: no-repeat;
+  background-position: 25%;
+  
+}
+
+.two__block__car {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.left__blokc {
+  width: 613px;
+  height: 450px;
+  background-image: url(..//IMG/Ellipse_gradient.png), url(..//IMG/Ellipse_picture.png);
+  background-repeat: no-repeat;
+}
+
+.left__blokc p {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  font-size: 60px;
+  line-height: 5px;
+  padding: 40px 0 0 15px;
+}
+
+.right__block {
+  width: 387px;
+  height: 450px;
+  background-color: #738CA6;
+}
+
+.right__block p {
+  font-size: 50px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  line-height: 5px;
+  text-align: center;
+  padding: 40px 0 0 0;
+}
+
+.right__block li {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  font-size: 16px;
+  line-height: 35px;
+  padding: 0px 0 0 26px;
+  margin: 10px 0 0 0;
+}
+
+.right__block img {
+  margin: 0 16px 0 0;
+}
+
+.buy__on__credit {
+  width: 284px;
+  height: 56px;
+  background-color: #444444;
+  margin: 0 0 0 45px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  font-size: 16px;
+  line-height: 50px;
+  text-align: center;
+  border: 2px solid #444444;
+}
+
+.buy__on__credit:active {
+  box-shadow: 5px 5px 5px black ;
+				background-color: #1b1b1b;
+				border: 2px solid #1b1b1b;
+}
+
+.buy__at__a__dicount {
+  width: 284px;
+  height: 56px;
+  background-color: #10B5DC;
+  margin: 27px 0 0 45px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  font-size: 16px;
+  line-height: 50px;
+  text-align: center;
+  border: 2px solid #10B5DC;
+}
+
+.buy__at__a__dicount:active {
+  box-shadow: 5px 5px 5px black ;
+				background-color: #0d7b9b;
+				border: 2px solid #0d7b9b;
+}
+
+.text__equipment{
+				width: 1600px;
+				margin: 0 auto;
+}
+
+.text__equipment p {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  font-size: 50px;
+  line-height: 5px;
+  padding: 130px 0 0 0;
+  margin: 0 auto;
+}
+
+.credit__card{
+   width: 1920px;
+}
+
+.credit__card__content{
+   width: 1520px;
+   height: 221px;
+   margin: 54px auto;
+   background-image: url(..//IMG/Rectangle_106.png);
+   display: flex;
+}
+
+.text__price{
+   display: flex;
+   width: 350px;
+}
+
+.photo_car img{
+   margin: -40px 0 0 0;
+}
+
+.parameters{
+   display: flex;
+   width: 300px;
+}
+
+.text__car{
+   margin: 10px 20px 0 0;
+}
+
+.text__car h1{
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   color: white;
+   font-size: 36px;
+   line-height: 25px;
+   padding: 0 0px 0 0;
+}
+
+.MPI{
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   color: white;
+   font-size: 16px;
+   line-height: 20px;
+   margin: -10px 0 0 0;
+}
+
+.text__price p{
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   color: white;
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 24px;
+}
+
+.text__price span{
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   color: white;
+   font-size: 18px;
+   line-height: 20px;
+   text-decoration: line-through;
+   padding: 18px 0 0 10px;
+}
+
+.text__price h1{
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   color: white;
+   font-size: 24px;
+   line-height: 24px;
+   padding: 0 0 0 18px;
+}
+
+.information__car{
+   margin: 0 0 0 5px;
+}
+
+.parameters p{
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   color: white;
+   font-size: 18px;
+padding: 5px 0 0 10px;
+}
+
+.parametrs_1{
+   margin: 4px 0 0 0;
+}
+
+.credit{
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   color: white;
+   font-size: 16px;
+   line-height: 20px;
+   margin: 5px 0 0 0;
+}
+
+
+.parameters img{
+   margin: 0 10px 0 0;
+}
+
+
+.shop__car{
+   margin: 47px 0 0 0px;
+}
+
+.map{
+   width: 100%;
+   height: 600px;
+   margin: 0 auto;
+
+}
+
+.card__map{
+   width: 1280px;
+   height: 600px;
+   margin: 0 auto;
+}
+
+@media (max-width: 1600px){
+				.logo__number {
+    width: 100%;
+    position: relative;
+    margin: 0 0 0 0px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .logo__number p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 12px;
+    font-weight: bold;
+    color: #002C5F;
+    padding: 0 0 0 20px;
+  }
+  .Callback{
+  				margin: 0 0 0 50px;
+  }
+  .header {
+  width: 1600px;
+  height: 100px;
+}
+
+.container {
+  width: 1520px;
+  height: 56px;
+  margin: 35px auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.liquidations {
+  width: 1600px;
+  height: 640px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+          background-image: url(..//IMG/auto.png);
+  background-repeat: no-repeat;
+  background-position: 40%;
+}
+.liquidations__content {
+  width: 1600px;
+  height: 640px;
+  margin: 0 auto;
+}
+.liquidations__content p {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  font-size: 50px;
+  line-height: 55px;
+  text-align: center;
+  width: 1250px;
+  margin: 0 auto;
+  padding: 10px 0 0 70px;
+}
+.trade__in {
+  width: 1600px;
+  height: 240px;
+}
+card__cars {
+  width: 1600px;
+  height: 460px;
+  background-color: white;
+  margin: 0 auto;
+}
+.text__equipment{
+				width: 1600px;
+				margin: 0 auto;
+}
+
+.credit__card {
+  width: 1600px;
+}
+
+.map {
+  width: 1600px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+}
+
+@media (max-width: 435px) {
+  .header {
+    width: 375px;
+    height: 100px;
+  }
+  body {
+    width: 375px;
+  }
+  .container {
+    width: 95%;
+    height: 56px;
+    margin: 75px auto;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .logo__number {
+    width: 375px;
+    position: static;
+    margin: 0 0 0 0px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .number__credit {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    position: relative;
+    margin: 20px 0 0 0px;
+  }
+  .Callback {
+    width: 284px;
+    height: 56px;
+    background-color: #10B5DC;
+    margin: 625px 0 0 0px;
+    position: absolute;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    background-image: url(..//IMG/phone.png);
+    background-repeat: no-repeat;
+    background-position: 15%;
+  }
+  .logo__number p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 12px;
+    font-weight: bold;
+    color: #002C5F;
+    padding: 0 0 0 20px;
+  }
+  .logo__number img {
+    width: 40%;
+    height: 50%;
+  }
+  .get__a__loan {
+    width: 284px;
+    height: 56px;
+    background-color: #002C5F;
+    margin: 0 0 30px 0px;
+    text-align: center;
+  }
+  .liquidations {
+    width: 100%;
+    height: 640px;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+            background-position: 58%;
+  }
+  .liquidations__content {
+    width: 100%;
+    height: 640px;
+    
+    margin: 0 0 0 0px;
+  }
+  .liquidations__content p {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    padding: 10px 0 0 0px;
+    width: 375px;
+  }
+  .button__offer {
+    width: 287px;
+    height: 57px;
+    background-color: #002C5F;
+    text-align: center;
+    margin: 45px 0 0 40px;
+  }
+  .button__offer span {
+    color: white;
+    font-size: 16px;
+    line-height: 57px;
+  }
+  .trade__in {
+    width: 375px;
+    height: 470px;
+  }
+  .trade__in__content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .one__trade__in {
+    width: 351px;
+    height: 107px;
+    background-image: url(..//IMG/Rectangle_105.png);
+    margin: 50px 0 0 15px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: left;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .card__cars {
+    width: 375px;
+    height: 760px;
+    background-color: none;
+    margin: 0 auto;
+  }
+  .card__car {
+    width: 375px;
+    height: 450px;
+    margin: 30px auto;
+    background-image: url(..//IMG/Rectangle_backround.png);
+    background-repeat: no-repeat;
+    background-position: 25%;
+    border: none;
+  }
+  .two__block__car {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .left__blokc {
+    width: 375px;
+    height: 300px;
+    background-image: url(..//IMG/Ellipse_gradient.png), url(..//IMG/Ellipse_picture.png);
+    background-repeat: no-repeat;
+    margin: 30px 0 0 0px;
+  }
+  .left__blokc img {
+    width: 120%;
+    height: 90%;
+    margin: -15px 0 0 -80px;
+  }
+  .left__blokc p {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-size: 30px;
+    line-height: 5px;
+    padding: 0 0 0 15px;
+  }
+  .right__block {
+    width: 375px;
+    height: 450px;
+    background-color: #738CA6;
+    margin: 0px 0 0 0px;
+  }
+  
+  .text__equipment{
+				width: 375px;
+				margin: 0 auto;
+}
+  
+  .text__equipment p {
+  width: 375px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    line-height: 25px;
+    padding: 130px 0 0 0px;
+  }
+  .credit__card {
+    width: 375px;
+    margin: 0  0 0 0px;
+  }
+  .credit__card__content {
+    width: 375px;
+    height: 800px;
+    margin: 54px auto;
+    background-image: url(..//IMG/Rectangle_106.png);
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .text__price {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0 0 0 10px;
+  }
+  .photo_car img {
+    margin: -40px 0px 0 -28px;
+  }
+  .parameters {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .text__car {
+    margin: -10px 20px 0 0;
+  }
+  .text__car h1 {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-size: 25px;
+    line-height: 25px;
+    padding: 0 0 0 10px;
+  }
+  .MPI {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+    margin: -10px 0 0 10px;
+  }
+  .text__price p {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .text__price span {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-size: 18px;
+    line-height: 20px;
+    text-decoration: line-through;
+    padding: 18px 0 0 15px;
+  }
+  .text__price h1 {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-size: 24px;
+    line-height: 24px;
+    padding: 0 0 0 18px;
+  }
+  .information__car {
+    margin: 0 0 0 25px;
+  }
+  .parameters p {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-size: 18px;
+    padding: 5px 0 0 10px;
+  }
+  .parametrs_1 {
+    margin: 4px 0 0 0;
+  }
+  .credit {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 5px 0 0 0;
+  }
+  .parameters img {
+    margin: 0 10px 0 0;
+  }
+  .shop__car {
+    margin: 47px 0 0 20px;
+  }
+  .map {
+    width: 375px;
+    height: 600px;
+  }
+  .card__map {
+    width: 375px;
+    height: 600px;
+  }
+} 
