@@ -218,7 +218,6 @@ width: 100%;
 
 .card__cars {
 width: 100%;
-  max-width: 1600px;
   height: 460px;
 
   margin: 0 auto;
@@ -492,7 +491,6 @@ padding: 20px 0 0 10px;
   }
   .header {
 width: 100%;
-  max-width: 1600px;
   height: 100px;
 }
 
@@ -513,7 +511,6 @@ width: 100%;
 
 .liquidations {
 width: 100%;
-  max-width: 1600px;
   height: 640px;
   margin: 0 auto;
   display: -webkit-box;
@@ -531,7 +528,6 @@ width: 100%;
 }
 .liquidations__content {
   width: 100%;
-max-width: 1600px;
   height: 640px;
   margin: 0 auto;
 }
@@ -547,30 +543,27 @@ max-width: 1600px;
 }
 .trade__in {
 width: 100%;
-  max-width: 1600px;
   height: 240px;
 }
 card__cars {
 width: 100%;
-  max-width: 1600px;
   height: 460px;
   background-color: white;
   margin: 0 auto;
 }
 .text__equipment{
 width: 100%;
-				max-width: 1600px;
+				
 				margin: 0 auto;
 }
 
 .credit__card {
 width: 100%;
-  max-width: 1600px;
+  
 }
 
 .map {
 width: 100%;
-  max-width: 1600px;
   height: 600px;
   margin: 0 auto;
 }
