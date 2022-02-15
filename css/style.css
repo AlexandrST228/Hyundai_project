@@ -217,7 +217,8 @@ width: 100%;
 }
 
 .card__cars {
-  width: 1600px;
+width: 100%;
+  max-width: 1600px;
   height: 460px;
 
   margin: 0 auto;
@@ -343,11 +344,13 @@ width: 100%;
 }
 
 .credit__card{
-   width: 1920px;
+width: 100%;
+   max-width: 1920px;
 }
 
 .credit__card__content{
-   width: 1520px;
+width: 100%;
+   max-width: 1520px;
    height: 221px;
    margin: 54px auto;
    background-image: url(..//IMG/Rectangle_106.png);
@@ -488,7 +491,8 @@ padding: 20px 0 0 10px;
   				margin: 0 0 0 50px;
   }
   .header {
-  width: 1600px;
+width: 100%;
+  max-width: 1600px;
   height: 100px;
 }
 
@@ -508,7 +512,8 @@ padding: 20px 0 0 10px;
 }
 
 .liquidations {
-  width: 1600px;
+width: 100%;
+  max-width: 1600px;
   height: 640px;
   margin: 0 auto;
   display: -webkit-box;
@@ -525,7 +530,8 @@ padding: 20px 0 0 10px;
   background-position: 40%;
 }
 .liquidations__content {
-  width: 1600px;
+  width: 100%;
+max-width: 1600px;
   height: 640px;
   margin: 0 auto;
 }
@@ -540,26 +546,31 @@ padding: 20px 0 0 10px;
   padding: 10px 0 0 70px;
 }
 .trade__in {
-  width: 1600px;
+width: 100%;
+  max-width: 1600px;
   height: 240px;
 }
 card__cars {
-  width: 1600px;
+width: 100%;
+  max-width: 1600px;
   height: 460px;
   background-color: white;
   margin: 0 auto;
 }
 .text__equipment{
-				width: 1600px;
+width: 100%;
+				max-width: 1600px;
 				margin: 0 auto;
 }
 
 .credit__card {
-  width: 1600px;
+width: 100%;
+  max-width: 1600px;
 }
 
 .map {
-  width: 1600px;
+width: 100%;
+  max-width: 1600px;
   height: 600px;
   margin: 0 auto;
 }
