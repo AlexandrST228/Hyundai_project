@@ -13,6 +13,7 @@ a {
 
 .header {
   width: 100%;
+max-width: 1920px;
   height: 100px;
 }
 
@@ -21,6 +22,7 @@ li {
 }
 
 .container {
+width: 100%;
   max-width: 1520px;
   height: 56px;
   margin: 35px auto;
@@ -114,7 +116,8 @@ li {
 }
 
 .liquidations {
-  width: 1920px;
+width: 100%;
+  max-width: 1920px;
   height: 640px;
   margin: 0 auto;
   display: -webkit-box;
@@ -131,7 +134,8 @@ li {
 }
 
 .liquidations__content {
-  width: 1920px;
+ width: 100%;
+ max-width: 1920px;
   height: 640px;
   margin: 0 auto;
 }
@@ -166,7 +170,8 @@ li {
 }
 
 .trade__in {
-  width: 1920px;
+width: 100%;
+  max-width: 1920px;
   height: 240px;
 }
 
