@@ -461,6 +461,9 @@ padding: 20px 0 0 10px;
 }
 
 @media (max-width: 1600px){
+body{
+margin: 0 0 0 5px;
+}
 				.logo__number {
     width: 100%;
     position: relative;
