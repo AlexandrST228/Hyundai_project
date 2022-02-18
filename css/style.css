@@ -459,148 +459,156 @@ padding: 20px 0 0 10px;
    height: 600px;
    margin: 0 auto;
 }
-
 @media (max-width: 1600px){
-body{
-margin: 0 0 0 15px;
+
+Body{
+
+				Max-width: 1600px;
+				Margin: 0 0 0 20px;
 }
 				.logo__number {
-    width: 100%;
-    position: relative;
-    margin: 0 0 0 0px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
+    Width: 100%;
+    Position: relative;
+    Margin: 0 0 0 0px;
+    Display: -webkit-box;
+    Display: -ms-flexbox;
+    Display: flex;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
-            justify-content: center;
-    text-align: center;
+            Justify-content: center;
+    Text-align: center;
     -webkit-box-align: center;
         -ms-flex-align: center;
-            align-items: center;
+            Align-items: center;
   }
   .logo__number p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 17px;
-    line-height: 12px;
-    font-weight: bold;
-    color: #002C5F;
-    padding: 0 0 0 20px;
+    Font-family: Arial, Helvetica, sans-serif;
+    Font-size: 17px;
+    Line-height: 12px;
+    Font-weight: bold;
+    Color: #002C5F;
+    Padding: 0 0 0 20px;
   }
   .Callback{
-  				margin: 0 0 0 50px;
+  				Margin: 0 0 0 50px;
   }
   .header {
-width: 100%;
-  height: 100px;
+Width: 100%;
+  Height: 100px;
 }
 
 .container {
-  width: 1520px;
-  height: 56px;
-  margin: 35px auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  Width: 1520px;
+  Height: 56px;
+  Margin: 35px auto;
+  Display: -webkit-box;
+  Display: -ms-flexbox;
+  Display: flex;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
-          justify-content: center;
+          Justify-content: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
-          align-items: center;
+          Align-items: center;
 }
 
 .liquidations {
-width: 100%;
-  height: 640px;
-  margin: 0 auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+Width: 100%;
+  Height: 640px;
+  Margin: 0 auto;
+  Display: -webkit-box;
+  Display: -ms-flexbox;
+  Display: flex;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
-          justify-content: center;
+          Justify-content: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
-          align-items: center;
-          background-image: url(..//IMG/auto.png);
-  background-repeat: no-repeat;
-  background-position: 40%;
+          Align-items: center;
+          Background-image: url(..//IMG/auto.png);
+  Background-repeat: no-repeat;
+  Background-position: 40%;
 }
 .liquidations__content {
-  width: 100%;
-  height: 640px;
-  margin: 0 auto;
+  Width: 100%;
+  Height: 640px;
+  Margin: 0 auto;
 }
 .liquidations__content p {
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  color: white;
-  font-size: 50px;
-  line-height: 55px;
-  text-align: center;
-  width: 1250px;
-  margin: 0 auto;
-  padding: 10px 0 0 10px;
+  Font-family: Arial, «Helvetica Neue», Helvetica, sans-serif;
+  Color: white;
+  Font-size: 50px;
+  Line-height: 55px;
+  Text-align: center;
+  Width: 1250px;
+  Margin: 0 auto;
+  Padding: 10px 0 0 10px;
 }
 
 
 .button__offer {
-  width: 287px;
-  height: 57px;
-  background-color: #002C5F;
-  text-align: center;
-  margin: 27px 0 0 400px;
-  color: white;
-  font-size: 16px;
-  line-height: 57px;
-  border: 2px solid #002C5F;
+  Width: 287px;
+  Height: 57px;
+  Background-color: #002C5F;
+  Text-align: center;
+  Margin: 27px 0 0 400px;
+  Color: white;
+  Font-size: 16px;
+  Line-height: 57px;
+  Border: 2px solid #002C5F;
 }
 
 .trade__in {
-width: 100%;
-  height: 240px;
+Width: 100%;
+  Height: 240px;
 }
 .one__trade__in {
-  width: 351px;
-  height: 107px;
-  background-image: url(..//IMG/Rectangle_105.png);
-  margin: 50px 0 0 20px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  Width: 351px;
+  Height: 107px;
+  Background-image: url(..//IMG/Rectangle_105.png);
+  Margin: 50px 0 0 20px;
+  Display: -webkit-box;
+  Display: -ms-flexbox;
+  Display: flex;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
-          justify-content: center;
-  text-align: left;
+          Justify-content: center;
+  Text-align: left;
   -webkit-box-align: center;
       -ms-flex-align: center;
-          align-items: center;
+          Align-items: center;
 }
-card__cars {
-width: 100%;
-  height: 460px;
-  background-color: white;
-  margin: 0 auto;
+Card__cars {
+Width: 100%;
+  Height: 460px;
+  Background-color: white;
+  Margin: 0 auto;
 }
 .text__equipment{
-width: 100%;
+Width: 100%;
 				
-				margin: 0 auto;
+				Margin: 0 auto;
 }
 
 .credit__card {
-width: 100%;
+Width: 100%;
   
+}
+.shop__car{
+   Margin: 15px 0 0 -55px;
+}
+
+.credit__card__content{
+				Width: 95%;
 }
 
 .map {
-width: 100%;
-  height: 600px;
-  margin: 0 auto;
+Width: 100%;
+  Height: 600px;
+  Margin: 0 auto;
 }
 
 }
-
 @media (max-width: 635px) {
   .header {
     width: 375px;
