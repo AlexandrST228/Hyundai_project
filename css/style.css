@@ -455,7 +455,7 @@ padding: 20px 0 0 10px;
 }
 
 .card__map{
-   width: 1280px;
+   width: 90%;
    height: 600px;
    margin: 0 auto;
 }
@@ -464,7 +464,7 @@ padding: 20px 0 0 10px;
 Body{
 
 				Max-width: 1600px;
-				Margin: 0 0 0 20px;
+				Margin: 0 0 0 10px;
 }
 				.logo__number {
     Width: 100%;
@@ -607,9 +607,13 @@ Width: 100%;
   Height: 600px;
   Margin: 0 auto;
 }
+.card__map{
+   width: 90%;
+   height: 600px;
+   margin: 0 auto;
 
 }
-@media (max-width: 635px) {
+@media (max-width: 435px) {
   .header {
     width: 375px;
     height: 100px;
@@ -919,7 +923,7 @@ margin: 0 0 0 10px;
     height: 600px;
   }
   .card__map {
-    width: 375px;
+    width: 90%;
     height: 600px;
   }
 } 
