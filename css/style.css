@@ -455,7 +455,7 @@ padding: 20px 0 0 10px;
 }
 
 .card__map{
-   width: 90%;
+   Max-width: 90%;
    height: 600px;
    margin: 0 auto;
 }
@@ -463,11 +463,11 @@ padding: 20px 0 0 10px;
 
 Body{
 
-				Max-width: 1600px;
+				Max-width: 100%;
 				Margin: 0 0 0 10px;
 }
 				.logo__number {
-    Width: 100%;
+    Max-Width: 100%;
     Position: relative;
     Margin: 0 0 0 0px;
     Display: -webkit-box;
@@ -563,7 +563,7 @@ Width: 100%;
   Height: 240px;
 }
 .one__trade__in {
-  Width: 351px;
+  Max-Width: 351px;
   Height: 107px;
   Background-image: url(..//IMG/Rectangle_105.png);
   Margin: 50px 0 0 20px;
@@ -579,7 +579,7 @@ Width: 100%;
           Align-items: center;
 }
 Card__cars {
-Width: 100%;
+Max-Width: 100%;
   Height: 460px;
   Background-color: white;
   Margin: 0 auto;
@@ -591,7 +591,7 @@ Width: 100%;
 }
 
 .credit__card {
-Width: 100%;
+Max-Width: 100%;
   
 }
 .shop__car{
@@ -603,12 +603,12 @@ Width: 100%;
 }
 
 .map {
-Width: 100%;
+Max-Width: 100%;
   Height: 600px;
   Margin: 0 auto;
 }
 .card__map{
-   width: 90%;
+   Max-width: 90%;
    height: 600px;
    margin: 0 auto;
 
@@ -623,7 +623,7 @@ Width: 100%;
 margin: 0 0 0 10px;
   }
   .container {
-    width: 95%;
+    Max-width: 95%;
     height: 56px;
     margin: 75px auto;
     -webkit-box-orient: vertical;
@@ -638,7 +638,7 @@ margin: 0 0 0 10px;
             align-items: center;
   }
   .logo__number {
-    width: 375px;
+    Max-width: 375px;
     position: static;
     margin: 0 0 0 0px;
     display: -webkit-box;
